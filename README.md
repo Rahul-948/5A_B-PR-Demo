@@ -1,1 +1,1 @@
-# 5A_B-PR-Demo
+Integrated Full-Stack Vibe Coding + Advanced Git Workflow 
